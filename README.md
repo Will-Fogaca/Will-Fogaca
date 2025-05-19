@@ -1,23 +1,17 @@
-<h1 align="center">👋 Olá, sou Willian Cruz Fogaça</h1>
-<h3 align="center">Desenvolvedor apaixonado por tecnologia e performance!</h3>
+<h1 align="center">👨‍💻 Willian Cruz Fogaça</h1>
+<h3 align="center">Desenvolvedor Delphi, Java, C# e apaixonado por resolver problemas com código.</h3>
 
 ---
 
-### 🚀 Sobre mim
+### 🧾 Sobre mim
 
-Sou um desenvolvedor com experiência prática em:
+Sou um desenvolvedor com sólida experiência em **Delphi**, **Java**, **C#**, e **SQL Server**. Gosto de construir aplicações robustas, performáticas e com interfaces limpas. Tenho familiaridade com **Spring Boot**, **ASP.NET**, **ASP.NET Core** e versionamento com **Git** e **GitHub**.
 
-- 🔹 **Delphi (FMX e VCL)**
-- 🔹 **Java (Spring Boot)**
-- 🔹 **C# (ASP.NET e ASP.NET Core)**
-- 🔹 **SQL Server** para bancos de dados robustos
-- 🔹 Versionamento com **Git e GitHub**
-
-Estou sempre em busca de criar soluções otimizadas, com foco em performance, clareza de código e boas práticas.
+> Busco constantemente aprender, evoluir como programador e criar soluções que impactem positivamente os usuários.
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🚀 Tecnologias que utilizo
 
 #### 💻 Linguagens & Frameworks
 
@@ -32,29 +26,31 @@ Estou sempre em busca de criar soluções otimizadas, com foco em performance, c
 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-#### 🧰 Ferramentas
+#### ⚙️ Ferramentas
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-### 📂 Meus repositórios em destaque
+### 📌 Projetos em destaque
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| [`damnatio-memory`](https://github.com/Will-Fogaca/damnatio-memory) | JavaFX | Otimizador de memória RAM para Windows, inspirado no Mem Reduct |
-| [`encurta-facil`](https://github.com/Will-Fogaca/encurta-facil) | Spring Boot, MySQL | API REST para encurtamento de URLs com expiração automática |
-| [`controle-financeiro`](https://github.com/Will-Fogaca/controle-financeiro) | Delphi, SQL Server | Sistema de controle financeiro pessoal com relatórios e alertas |
-| [`consulta-endereco`](https://github.com/Will-Fogaca/consulta-endereco) | Java, ViaCEP | Aplicação que consulta CEPs e retorna o endereço completo |
+| [`🔗 encurta-facil`](https://github.com/Will-Fogaca/encurta-facil) | Spring Boot, MySQL | API para encurtamento de URLs com redirecionamento e expiração |
+| [`🧠 damnatio-memory`](https://github.com/Will-Fogaca/damnatio-memory) | JavaFX | Otimizador de memória RAM, inspirado no Mem Reduct |
+| [`📊 controle-financeiro`](https://github.com/Will-Fogaca/controle-financeiro) | Delphi, SQL Server | Sistema pessoal de controle financeiro com relatórios e alertas |
+| [`📍 consulta-endereco`](https://github.com/Will-Fogaca/consulta-endereco) | Java, ViaCEP | Aplicação que consulta CEPs e retorna dados completos do endereço |
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- 📧 Email: seuemail@email.com
+- 📧 **Email:** seuemail@email.com  
+- 💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/seu-usuario)
 
 ---
 
-<p align="center">Feito com ❤️ por <strong>Willian Cruz Fogaça</strong></p>
+<p align="center">
+  Feito com ❤️ por <strong>Willian Cruz Fogaça</strong> • <a href="https://github.com/Will-Fogaca">GitHub</a>
+</p>
