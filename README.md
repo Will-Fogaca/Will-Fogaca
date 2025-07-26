@@ -47,8 +47,7 @@ Sou um desenvolvedor com sólida experiência em **Delphi**, **Java**, **C#**, e
 ### 📫 Contato
 
 - 📧 **Email:** wilcruzf@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/willian-fogaça](https://www.linkedin.com/in/willian-fogaça)
-
+- 💼 **LinkedIn:** [linkedin.com/in/willian-foga%C3%A7a-418700225](https://www.linkedin.com/in/willian-foga%C3%A7a-418700225)
 ---
 
 <p align="center">
