@@ -46,8 +46,8 @@ Sou um desenvolvedor com sólida experiência em **Delphi**, **Java**, **C#**, e
 
 ### 📫 Contato
 
-- 📧 **Email:** seuemail@email.com  
-- 💼 **LinkedIn:** [linkedin.com/in/seu-usuario](https://www.linkedin.com/in/seu-usuario)
+- 📧 **Email:** wilcruzf@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/Willc-Fogaca](https://www.linkedin.com/in/Willc-Fogaca)
 
 ---
 
