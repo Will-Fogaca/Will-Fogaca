@@ -37,10 +37,6 @@ Sou um desenvolvedor com sólida experiência em **Delphi**, **Java**, **C#**, e
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|-----------|
-| [`🔗 encurta-facil`](https://github.com/Will-Fogaca/encurta-facil) | Spring Boot, MySQL | API para encurtamento de URLs com redirecionamento e expiração |
-| [`🧠 damnatio-memory`](https://github.com/Will-Fogaca/damnatio-memory) | JavaFX | Otimizador de memória RAM, inspirado no Mem Reduct |
-| [`📊 controle-financeiro`](https://github.com/Will-Fogaca/controle-financeiro) | Delphi, SQL Server | Sistema pessoal de controle financeiro com relatórios e alertas |
-| [`📍 consulta-endereco`](https://github.com/Will-Fogaca/consulta-endereco) | Java, ViaCEP | Aplicação que consulta CEPs e retorna dados completos do endereço |
 
 ---
 
